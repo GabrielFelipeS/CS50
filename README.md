@@ -3,12 +3,12 @@ Exercicios do CS50: Introduction to Computer Science
 
 Os exercicios desse repositorio são retirados do curso de Harvard de introdução à ciência da computação- CS50
 
-A pset1 ou semana 1 aborda conceitos de condicionais com desafios interessantes, como o cartão.
-Na pset2 ou semana 2 aborda conceitos de vetores e argc e argv.
-Na pset3 ou semana 3 aborda conceitos de algoritmo onde possui um dos exercicios mais dificieis do curso, o tideman
-Na pset4 ou semana 4 abortam conceitos de memoria, introduzindo o ponteiro
-Na pset5 ou semana 5 introduz conceitos de estrutura de dados
-
+A pset1 ou semana 1 aborda conceitos de condicionais com desafios interessantes, como o cartão. </br>
+Na pset2 ou semana 2 aborda conceitos de vetores e argc e argv. </br>
+Na pset3 ou semana 3 aborda conceitos de algoritmo onde possui um dos exercicios mais dificieis do curso, o tideman </br>
+Na pset4 ou semana 4 abortam conceitos de memoria, introduzindo o ponteiro </br>
+Na pset5 ou semana 5 introduz conceitos de estrutura de dados </br>
+ 
 # Exercicio cartão - Verificador de Cartões de Crédito - pset1
 
 ## Descrição
